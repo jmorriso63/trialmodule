@@ -1,0 +1,15 @@
+{
+  "name": "jmorriso63-trialmodule",
+  "version": "0.1.0",
+  "author": "jmorriso63",
+  "summary": "A trial module",
+  "license": "Apache-2.0",
+  "source": "https://github.com:jmorriso63/trialmodule.git",
+  "project_page": "https://github.com/jmorriso63/trialmodule/projects",
+  "issues_url": "https://github.com/jmorriso63/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
