@@ -1,11 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     ast (2.4.0)
     diff-lcs (1.3)
-    facter (3.6.9)
+    facter (3.12.2.cfacter.20181217)
     fast_gettext (1.1.2)
     hiera (3.4.2)
     json-schema (2.8.0)
@@ -22,7 +22,7 @@ GEM
     parser (2.5.0.5)
       ast (~> 2.4.0)
     powerpack (0.1.1)
-    public_suffix (3.0.2)
+    public_suffix (5.0.0)
     puppet (5.5.0)
       facter (> 2.0.1, < 4)
       fast_gettext (~> 1.1.2)
